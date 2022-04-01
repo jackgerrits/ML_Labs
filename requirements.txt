@@ -1,0 +1,6 @@
+matplotlib
+vowpalwabbit
+pandas
+sklearn
+numpy
+scipy
